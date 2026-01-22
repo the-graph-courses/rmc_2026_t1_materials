@@ -1,0 +1,78 @@
+---
+title: "R MasterClass Final Project: Global Statistics Dashboard"
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc_depth: 3
+    embed-resources: true
+---
+
+# Introduction
+
+This project is a culmination of the skills and knowledge you've gained throughout the course. Your task is to create an interactive dashboard published to GitHub Pages, showcasing statistics in a visually engaging way. You will choose at least two datasets on global indicators from Gapminder or other sources, clean and prepare the data, and create a multi-page quarto dashboard with interactive visualizations.
+
+# Timeline and Deadlines
+
+-   **Preliminary Peer Review**: During our final workshop (June 22, 2025) you will present a draft of one page of your dashboard to a group of peers and instructors for feedback. 
+
+-   **Final Deadline**: June 30, 2025, 23:59 GMT. You will submit your Quarto file containing your dashboard and a link to your deployed project on GitHub Pages and GitHub repository.
+
+## Project Requirements
+
+### Data Selection
+
+- Choose at least TWO indicators from [Gapminder's data repository](https://gapminder.org/data). 
+
+- You can subset to a single year or include multiple years in your analysis.
+
+- If you would rather work with alternative datasets, perhaps those more relevant to your work, send an email to us with your proposal. As long as your final dashboard meets the rubric requirements below, it could be a good alternative.
+
+### Dashboard Technical Requirements
+
+1. Your dashboard should contain at least three pages, with at least the following pages:
+
+    - First Indicator Analysis
+    - Second Indicator Analysis
+    - Relationship between the two indicators. No statistical analysis is required; this can be purely descriptive/graphical.
+
+2. The dashboard should include at least 12 display elements. A display element can include a value box, plot, table, map, or text box.
+
+3. At least some figures should be interactive.
+
+4. The dashboard should include at least one map.
+
+## Grading Rubric (100 points)
+
+### Data Selection and Manipulation (25 points)
+- Relevant data selected from Gapminder or approved alternative source
+- Data files are properly cleaned without errors or inconsistencies
+- Datasets are correctly merged when needed
+- Shows evidence of mastery of a range of dplyr functions
+
+### Dashboard Structure (15 points)
+- Contains required three pages (first indicator, second indicator, relationship)
+- Layout is logical, easy to navigate, and makes effective use of space
+- Design choices enhance understanding of the content
+
+### Visualization Elements (30 points)
+- Dashboard includes at least 12 display elements (an element is a value box, plot, table, map, or text box)
+- Plots have clear titles, labels, and appropriate scales
+- Interactive features (e.g. hover-over text) function correctly and display clear and useful information
+- Visual elements have titles or text boxes that explain the key insights 
+- Appropriate choice of visualization types for the data
+
+### Code Quality (10 points)
+- Code is well-organized and readable
+- Code runs without errors
+- Efficient use of functions and operations
+- Consistent formatting and style
+
+### Deployment and Repository Structure (10 points)
+- Dashboard is successfully deployed to GitHub Pages
+- Files are logically organized in repository
+
+### Originality, Creativity, and Insight (10 points)
+- Original approaches to dashboard design, visualization, or interaction
+- Demonstrates thoughtful exploration of the data
+- Presents interesting patterns or relationships
