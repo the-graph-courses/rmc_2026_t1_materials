@@ -18,11 +18,18 @@ This project is a culmination of the skills and knowledge you've gained througho
 
 -   **Final Deadline**: April 19, 2026, 23:59 GMT. You will submit your Quarto file containing your dashboard and a link to your deployed project on GitHub Pages and GitHub repository.
 
+## Examples of Past Projects
+
+Here are two examples of decently well done projects from previous cohorts:
+
+- <a href="https://vyas-niyati-git.github.io/final_project/" target="_blank">Maternal Mortality and Infant Mortality 2015</a>
+- <a href="https://consuelo-am.github.io/final_consu" target="_blank">Maternal Mortality and GDP in the Americas (2017)</a>
+
 ## Project Requirements
 
 ### Data Selection
 
-- Choose at least TWO indicators from [Gapminder's data repository](https://gapminder.org/data). 
+- Choose at least TWO indicators from <a href="https://gapminder.org/data" target="_blank">Gapminder's data repository</a>. 
 
 - You can subset to a single year or include multiple years in your analysis.
 
