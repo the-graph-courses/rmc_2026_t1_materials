@@ -16,7 +16,7 @@ This project is a culmination of the skills and knowledge you've gained througho
 
 -   **Preliminary Peer Review**: During our final workshop (April 9, 2026) you will present a draft of one page of your dashboard to a group of peers and instructors for feedback. 
 
--   **Final Deadline**: April 16, 2026, 23:59 GMT. You will submit your Quarto file containing your dashboard and a link to your deployed project on GitHub Pages and GitHub repository.
+-   **Final Deadline**: April 19, 2026, 23:59 GMT. You will submit your Quarto file containing your dashboard and a link to your deployed project on GitHub Pages and GitHub repository.
 
 ## Project Requirements
 
